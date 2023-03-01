@@ -1,0 +1,18 @@
+C:\Users\Ehed\Desktop\AdAcademy\WinFormModule\Car racing App\Car racing App\bin\Debug\net6.0-windows\Car racing App.exe
+C:\Users\Ehed\Desktop\AdAcademy\WinFormModule\Car racing App\Car racing App\bin\Debug\net6.0-windows\Car racing App.deps.json
+C:\Users\Ehed\Desktop\AdAcademy\WinFormModule\Car racing App\Car racing App\bin\Debug\net6.0-windows\Car racing App.runtimeconfig.json
+C:\Users\Ehed\Desktop\AdAcademy\WinFormModule\Car racing App\Car racing App\bin\Debug\net6.0-windows\Car racing App.dll
+C:\Users\Ehed\Desktop\AdAcademy\WinFormModule\Car racing App\Car racing App\bin\Debug\net6.0-windows\Car racing App.pdb
+C:\Users\Ehed\Desktop\AdAcademy\WinFormModule\Car racing App\Car racing App\obj\Debug\net6.0-windows\Car racing App.csproj.AssemblyReference.cache
+C:\Users\Ehed\Desktop\AdAcademy\WinFormModule\Car racing App\Car racing App\obj\Debug\net6.0-windows\Car_racing_App.Form1.resources
+C:\Users\Ehed\Desktop\AdAcademy\WinFormModule\Car racing App\Car racing App\obj\Debug\net6.0-windows\Car_racing_App.Properties.Resources.resources
+C:\Users\Ehed\Desktop\AdAcademy\WinFormModule\Car racing App\Car racing App\obj\Debug\net6.0-windows\Car racing App.csproj.GenerateResource.cache
+C:\Users\Ehed\Desktop\AdAcademy\WinFormModule\Car racing App\Car racing App\obj\Debug\net6.0-windows\Car racing App.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ehed\Desktop\AdAcademy\WinFormModule\Car racing App\Car racing App\obj\Debug\net6.0-windows\Car racing App.AssemblyInfoInputs.cache
+C:\Users\Ehed\Desktop\AdAcademy\WinFormModule\Car racing App\Car racing App\obj\Debug\net6.0-windows\Car racing App.AssemblyInfo.cs
+C:\Users\Ehed\Desktop\AdAcademy\WinFormModule\Car racing App\Car racing App\obj\Debug\net6.0-windows\Car racing App.csproj.CoreCompileInputs.cache
+C:\Users\Ehed\Desktop\AdAcademy\WinFormModule\Car racing App\Car racing App\obj\Debug\net6.0-windows\Car racing App.dll
+C:\Users\Ehed\Desktop\AdAcademy\WinFormModule\Car racing App\Car racing App\obj\Debug\net6.0-windows\refint\Car racing App.dll
+C:\Users\Ehed\Desktop\AdAcademy\WinFormModule\Car racing App\Car racing App\obj\Debug\net6.0-windows\Car racing App.pdb
+C:\Users\Ehed\Desktop\AdAcademy\WinFormModule\Car racing App\Car racing App\obj\Debug\net6.0-windows\Car racing App.genruntimeconfig.cache
+C:\Users\Ehed\Desktop\AdAcademy\WinFormModule\Car racing App\Car racing App\obj\Debug\net6.0-windows\ref\Car racing App.dll
